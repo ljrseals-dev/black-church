@@ -1,3 +1,6 @@
+Due to the experiment for coding for black churches I inserted the exact chat prompts that was used to create the resource. 
+
+
 The next major step should be Muse 3.1's Moral Simulation Room: generate the dilemma, simulate each character's competing reasoning, run the decision through the ethical frameworks, simulate consequences several steps forward, then feed the resulting conflict back into the novel/TV/film writers' room. That would make the ethics engine part of the actual plot-generation loop, rather than merely an editorial check.
 
 For the Muse 3.1 Moral Simulation Room, we already have enough to build the core. We don't need a neural network first.
